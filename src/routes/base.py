@@ -10,5 +10,5 @@ async def welcome():
     APP_NAME=os.getenv("APP_NAME")
     return {
         "app_name": APP_NAME,
-        "app_version": "shko",
+        "app_version": "shkossss",
     }
